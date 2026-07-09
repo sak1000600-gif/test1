@@ -3,5 +3,4 @@ print("Stackpython 2")
 print("Stackpython 3")
 print("Stackpython 4")
 print("Stackpython 5")
-print("sakesan 3")
-print("sakesan 4")
+
